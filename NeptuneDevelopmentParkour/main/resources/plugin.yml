@@ -1,0 +1,10 @@
+name: NeptuneParkour
+version: '0.1'
+main: com.ik26w30.Main
+authors: [ Matteo ]
+description: questo plugin è stato realizzato per la modalità parkour del server NeptuneMC
+website: https://discord.gg/GHGnkrUxCQ
+commands:
+  parkour:
+  setpspawn:
+  delpspawn:
