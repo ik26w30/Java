@@ -1,0 +1,24 @@
+name: PracticeCore
+version: 0.1
+main: org.ik26w30.practicecore.PracticeCore
+author: Ik26w30
+description: idk
+website: https://www.zionsstudios.eu
+commands:
+  kiteditor:
+    aliases:
+      - kitedit
+  scoreboard:
+    aliases:
+      - sb
+  stats:
+    description: Stats Command
+  kit:
+    description: Kit
+  deletekit:
+    aliases:
+      - delkit
+  createkit:
+    description: Create Kit
+  createarena:
+    description: Create arena
